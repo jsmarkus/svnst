@@ -1,6 +1,6 @@
 {
   "name": "svnst",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "colorful SVN status command",
   "main": "index.js",
   "bin": {
